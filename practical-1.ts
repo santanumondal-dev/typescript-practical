@@ -13,10 +13,10 @@ Steps:
    This will print the values to the terminal when the program runs.
 */
 
-let fullName: string = "Saikat Sarkar";
+let fullName: string = "Santanu Mondal";
 let age: string = "18";
 let gender: string = "Male";
-let phoneNumber: string = "5965565456";
+let phoneNumber: string = "8343944553";
 
 console.log(fullName);
 console.log(age);
